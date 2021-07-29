@@ -7,3 +7,6 @@ qui 01 jul 2021 10:18:37 -03
 
 Week 2 finished
 sex 23 jul 2021 17:06:52 -03
+
+Week 3 finished
+qui 29 jul 2021 14:59:38 -03
